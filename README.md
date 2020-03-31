@@ -19,4 +19,5 @@ Use the script `HE_draw_text(x, y, string)` in order to draw Hebrew text.
 ![icon](/Get%20Username%20windows/Icon.jpg)
 
 A script from a DLL to get your computer's name and the user's name.
-![scn](/Get%20Username%20windows/Scn.jpg)
+
+![scn](/Get%20Username%20windows/Scn.png)
