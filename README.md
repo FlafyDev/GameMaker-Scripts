@@ -13,4 +13,4 @@ A simple and fast script that will return if any audio is playing at the moment
 Use the script `HE_draw_text(x, y, string)` in order to draw Hebrew text.
 * The script draws from right to left (No need to set again the Halign after the script)
 * The script uses the font `ftHE`(Arial with Hebrew letters)
-* Uses the script `HE_string_reverse`
+* The script uses the script `HE_string_reverse`
