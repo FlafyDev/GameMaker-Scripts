@@ -1,4 +1,4 @@
-// getUsername(0) return the computer name.
-// getUsername(1) return the computer username.
+// getUsername(0) return the user's name.
+// getUsername(1) return the computer's username.
 
-show_message("Your computer name: "+getUsername(0)+"\n"+"Your username: "+getUsername(1))
+show_message("Your computer's name: "+getUsername(0)+"\n"+"Your user's name: "+getUsername(1))
