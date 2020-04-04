@@ -9,7 +9,8 @@ var text = argument2
 
 text = HE_string_reverse(text)
 var halign = draw_get_halign()
-draw_set_halign(fa_right)
+if halign == fa_left
+  draw_set_halign(fa_right)
 draw_set_font(ftHE)
 
 draw_text(xx, yy, text)
